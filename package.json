@@ -1,0 +1,26 @@
+{
+  "name": "brevo-2.5.0-type-check",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test-type": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yoctoboy/brevo-2.5.0-type-check.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yoctoboy/brevo-2.5.0-type-check/issues"
+  },
+  "homepage": "https://github.com/Yoctoboy/brevo-2.5.0-type-check#readme",
+  "dependencies": {
+    "@getbrevo/brevo": "^2.5.0"
+  },
+  "devDependencies": {
+    "@types/node": "^24.3.0"
+  }
+}
